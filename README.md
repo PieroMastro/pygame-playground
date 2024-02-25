@@ -1,7 +1,9 @@
 # pygame-playground
-A simple demo game made with python and pygame. This was made as a demo for my python course at Algorithmic Academy when I was teaching .
+
+A basic demonstration game created using Python and Pygame. I developed this as a sample project for my Python course at Algorithmic Academy during my teaching tenure.
 
 # Requirements
+
 - Python 3.x
 - pygame
 
